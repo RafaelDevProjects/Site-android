@@ -38,12 +38,15 @@ header{
 }
 
 header > p {
+    font-family: var(--fonte-padrao);
     color: white;
     font-size: 1.2em;
     margin: auto;
     max-width: 500px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.212);
     padding-bottom: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 header>h1{
